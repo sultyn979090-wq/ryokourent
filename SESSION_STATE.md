@@ -1,10 +1,10 @@
 # SESSION_STATE
 Diperbarui: <10/9/2026>, oleh <orang>
-Fase aktif: 0 (Fondasi)
-Selesai: struktur repo dibuat, keputusan D-01..D-06 dicatat
-Sedang dikerjakan: T04 (sesi keputusan bisnis)
-Blokir: anggaran hosting, hak Operator atas model unit
-Langkah berikut: jawab OPEN_QUESTIONS lalu T06b (ADR + pilih hosting)
+Fase aktif: 0–1 
+Selesai: struktur repo (T01–T03), keputusan D-01..D-07
+Sedang dikerjakan: T04 (konflik bisnis 2–16)
+Blokir: hak Operator atas model unit; daftar konflik bisnis
+Langkah berikut: T06b (ADR hosting + tema + plugin multi-bahasa, biaya 3 tahun)
 ---
 
 
