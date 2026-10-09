@@ -10,10 +10,10 @@ Langkah berikut: jawab OPEN_QUESTIONS lalu T06b (ADR + pilih hosting)
 
 | ID Task | Nama Task | Fase | Status | Dependensi | Tanggal Selesai |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **TASK-000** |  | FASE 0 | **DONE** | - | 2026-09-10 |
-| **TASK-000** |  | FASE 0 | **0** | TASK-000 | 0 |
-| **TASK-000** |  | FASE 2 | **0** | TASK-000 | 0 |
-| **TASK-000** |  | FASE 2 | **0** | TASK-000 | 0 |
+| **T01** |  | FASE 0 | **DONE** | 0 | 2026-09-10 |
+| **T02** |  | FASE 0 | **DONE** | 0 | 2026-09-10 |
+| **03** |  | FASE 0 | **DONE** | 0 | 2026-09-10  |
+
 
 ---
 
