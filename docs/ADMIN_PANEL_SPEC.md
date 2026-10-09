@@ -1,0 +1,1 @@
+ADMIN_PANEL_SPEC.md
